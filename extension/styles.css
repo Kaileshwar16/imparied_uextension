@@ -1,0 +1,19 @@
+
+#floatingCaptions {
+    position: fixed;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 500px;  /* Wider rectangle */
+    height: 300px;  /* More height */
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: grab;
+}
