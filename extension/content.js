@@ -2,6 +2,7 @@
 (function () {
     if (document.getElementById("floatingCaptions")) return;
 
+
     let captionBox = document.createElement("div");
     captionBox.id = "floatingCaptions";
 
