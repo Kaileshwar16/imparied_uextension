@@ -20,21 +20,14 @@ This extension can be the starting point for:
 - HTML / CSS / JavaScript
 - Firefox WebExtension APIs
 
-## 📂 Project Structure
-extension/
-├── manifest.json
-├── background.js
-├── popup.html
-├── popup.js
-└── styles.css
-
 ## 🚀 Getting Started
 
 ### Load in Chrome / Edge / Opera
-1. Clone this repository
+ 
+ 1. Clone this repository
    ```bash
    git clone https://github.com/Kaileshwar16/imparied_uextension.git
-2. Open:
+ 2. Open:
 
   Chrome → chrome://extensions/
 
@@ -42,29 +35,29 @@ extension/
 
   Opera → opera://extensions/
 
-3. Enable Developer Mode
+ 3. Enable Developer Mode
 
-4. Click Load Unpacked
+ 4. Click Load Unpacked
 
-5. Select the extension/ folder
+ 5. Select the extension/ folder
 
 ### Load in Firefox
 
-1. Open Firefox → about:debugging#/runtime/this-firefox
+ 1. Open Firefox → about:debugging#/runtime/this-firefox
 
-2. Click Load Temporary Add-on
+ 2. Click Load Temporary Add-on
 
-3. Select manifest.json from the extension/ folder
+ 3. Select manifest.json from the extension/ folder
 
 ## 🤝 Contributing
 
-Fork it, modify it, and extend it.
-Ideas you can build on top of this:
+ Fork it, modify it, and extend it.
+ Ideas you can build on top of this:
 
-Sign language mapping
+ Sign language mapping
 
-Language learning tools
+ Language learning tools
 
-Caption-powered AI analysis
+ Caption-powered AI analysis
 
-Real-time transcription for meetings or classes
+ Real-time transcription for meetings or classes
