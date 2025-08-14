@@ -25,15 +25,16 @@ This extension can be the starting point for:
 ### Load in Chrome / Edge / Opera
  
  1. Clone this repository
-   ```bash
+
    git clone https://github.com/Kaileshwar16/imparied_uextension.git
+   
  2. Open:
 
-  Chrome → chrome://extensions/
+   Chrome → chrome://extensions/
 
-  Edge → edge://extensions/
+   Edge → edge://extensions/
 
-  Opera → opera://extensions/
+   Opera → opera://extensions/
 
  3. Enable Developer Mode
 
